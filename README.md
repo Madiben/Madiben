@@ -93,9 +93,6 @@ Connect via [LinkedIn](https://www.linkedin.com/in/mahdi-bentaleb-005b7a128/) fo
 ###
 
 <div align="left">
-  <a href="https://www.twitch.tv/soumayukii99/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/mahdi-bentaleb-005b7a128/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
