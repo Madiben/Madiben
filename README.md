@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mahdi and I'm a passionate software developer with expertise in C#/.NET, from Algeria, living in Budapest</h2>
 
 - 🔭 **I’m currently working on:**  
-  As an **Associate Software Developer** at **EF Tours**.  
+  As an **Software Developer** at **EF Tours**.  
   In my **pet project**, I’m focused on renovating and integrating **AI** into a **healthcare management app** to streamline workflows for clinics and patients.
 
 - 🌱 **I’m currently learning:**  
